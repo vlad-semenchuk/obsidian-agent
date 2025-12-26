@@ -1,0 +1,11 @@
+# Ignore vaults folder
+vaults/
+
+# Ignore IDE folders
+.idea/
+.claude/
+
+tmp/
+
+# macOS system files
+.DS_Store
