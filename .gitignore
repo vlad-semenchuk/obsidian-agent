@@ -5,7 +5,9 @@ vaults/
 .idea/
 .claude/
 
-tmp/
+.tmp/
 
 # macOS system files
 .DS_Store
+
+.venv
